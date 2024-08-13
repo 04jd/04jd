@@ -19,6 +19,6 @@
 
 - LinkedIn: https://www.linkedin.com/in/jaydeep-vara-392225221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
--Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+- Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
 Happy Coding! 😊
